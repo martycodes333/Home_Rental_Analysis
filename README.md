@@ -2,7 +2,7 @@ Housing Rental Analysis Using MAPBOX API
 
 ---
 
-This is a Jupyter Lab via command line interface created code used with the assitance of Pandas to create an analysis of the housing prices per square ft and the avgerage rental cost per neighborhood in the San Francisco area to determine which neighborhood presented the best investment.
+This is a Jupyter Lab via command line interface created code used with the assitance of Pandas to create an analysis of the housing prices per square ft and the avgerage rental cost per neighborhood in the San Francisco area to determine which neighborhood presented the best investment opportunities.
 
 ## Technologies
 
