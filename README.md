@@ -40,7 +40,7 @@ As well as Jupyter Lab Extensions
 conda install -c conda-forge jupyterlab=2
 jupyter labextension install jupyterlab-plotly@4.13.0 --no-build
 jupyter labextension install @jupyterlab-widgets/hupyterlab-manager plotlywidget@4.13.0 --no-build
-jupyter labextension install @pyviz/jupyterlab_pyvoz --no-build
+jupyter labextension install @pyviz/jupyterlab_pyviz --no-build
 jupyter lab build
 
 ```
